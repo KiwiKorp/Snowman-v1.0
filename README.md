@@ -9,6 +9,8 @@ What can this text editor do?
 
 * Open files
 
+``` PS: Please update the code if you can```
+
 Thank you for viewing my dumb project
 
 -- Kiwi Korp
